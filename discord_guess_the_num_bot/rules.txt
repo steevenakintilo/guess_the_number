@@ -1,0 +1,16 @@
+
+`You just have to guess a number between 1 and 100`
+`To play alone just write guess then a number.`
+`If your number is smaller than the number you have to guess then the guess will print 🥶🥶🥶`
+`If your number is greater than the number you have to guess then the guess will print 🥵🥵🥵`
+`If you guess the number you will see the number of tries you have made a the highscore'
+'Have Fun 👍`
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+`To play against the IA just write ia then a number.`
+`If your number is smaller than the number you have to guess then the guess will print YOU 🥶🥶🥶`
+`If your number is greater than the number you have to guess then the guess will print YOU 🥵🥵🥵`
+`If the ia number is smaller than the number you have to guess then the guess will print BOT the number of the bot 🥶🥶🥶`
+`If the ia number is greater than the number you have to guess then the guess will print BOT the number of the bot 🥵🥵🥵`
+`If you or the ia guess the number you will see the statistic between you and the ia'
+'Have Fun 👍`
